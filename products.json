@@ -1,0 +1,18 @@
+{
+  "items": [
+    { "id": 1, "name": "Rosewater Beaded Necklace", "cat": "Necklaces", "price": 1200, "color": "#E893AC" },
+    { "id": 2, "name": "Ivory Pearl Drop Necklace", "cat": "Necklaces", "price": 1450, "color": "#F1DDB0" },
+    { "id": 3, "name": "Rosé Layered Choker", "cat": "Necklaces", "price": 1600, "color": "#C96E8C" },
+    { "id": 4, "name": "Sweet Pea Bracelet Set", "cat": "Bracelets", "price": 850, "color": "#C96E8C" },
+    { "id": 5, "name": "Golden Thread Bracelet", "cat": "Bracelets", "price": 700, "color": "#C9A15A" },
+    { "id": 6, "name": "Blossom Stud Earrings", "cat": "Earrings", "price": 600, "color": "#FBE4EA" },
+    { "id": 7, "name": "Coquette Bow Earrings", "cat": "Earrings", "price": 650, "color": "#E893AC" },
+    { "id": 8, "name": "Daisy Chain Anklet", "cat": "Anklets", "price": 550, "color": "#F1DDB0" },
+    { "id": 9, "name": "Beaded Bow Keychain", "cat": "Keychains", "price": 450, "color": "#C96E8C" },
+    { "id": 10, "name": "Pearl Charm Keychain", "cat": "Keychains", "price": 500, "color": "#F1DDB0" },
+    { "id": 11, "name": "Rosewater Beaded Ring", "cat": "Rings", "price": 400, "color": "#E893AC" },
+    { "id": 12, "name": "Golden Thread Ring Set", "cat": "Rings", "price": 550, "color": "#C9A15A" },
+    { "id": 13, "name": "Coquette Press-On Nails", "cat": "Nails", "price": 800, "color": "#FBE4EA" },
+    { "id": 14, "name": "Floral French Tip Nails", "cat": "Nails", "price": 850, "color": "#F1DDB0" }
+  ]
+}
